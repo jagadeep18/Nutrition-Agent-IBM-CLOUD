@@ -59,5 +59,4 @@ A lightweight AI-based virtual assistant that generates affordable, healthy, and
 * [arXiv: DietGPT](https://arxiv.org/abs/2304.13777)
 
 
-Let me know if you want the same README in a **simpler** version, **with images**, or tailored for **academic submission or portfolio**.
 ```
